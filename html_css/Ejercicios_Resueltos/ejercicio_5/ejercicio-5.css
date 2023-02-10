@@ -1,0 +1,18 @@
+.contenedor {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+   
+}
+
+img {
+    width: 300px;
+}
+
+
+
+
+
+
