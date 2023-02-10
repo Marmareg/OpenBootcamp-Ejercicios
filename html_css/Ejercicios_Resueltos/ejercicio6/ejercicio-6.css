@@ -10,7 +10,5 @@
 }
 
 .boton:hover::before{
-
     content: "¡Hecho!";
- 
 }
